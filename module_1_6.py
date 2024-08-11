@@ -13,4 +13,3 @@ my_set.add("Watermelon")
 my_set.add(21)
 my_set.discard(7)
 print("Modified set:", my_set)
-
